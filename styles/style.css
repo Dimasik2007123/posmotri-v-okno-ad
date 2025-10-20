@@ -220,7 +220,7 @@ ol {
 
 
 .button:focus-visible{
-    outline: 1px solid currentColor;
+    outline: 1px solid white;
     outline-offset: 1px;
 }
 
